@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NRFSK42');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>
+        Bowe | ToFu - Agradecemos seu interesse!
+    </title>
+    <!-- Favicon -->
+    <link rel="icon" href="/bowe/martech-sales/img/Op2.png" sizes="32x32" />
+    <link rel="icon" href="/bowe/martech-sales/img/Op2.png" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="/bowe/martech-sales/img/Op2.png" />
+
+    <!-- CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+    <!-- STYLES -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;800&display=swap');
+
+        .bricks-form__field:nth-child(7),
+        .bricks-form__field:nth-child(8),
+        .bricks-form__field:nth-child(9),
+        .bricks-form__field:nth-child(10) {
+            display: none !important;
+            opacity: 0 !important
+        }
+
+
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        :root {
+            --primary-color: #F41F45;
+            --dark-blue: #222137
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background-color: var(--dark-blue);
+            font-family: 'Syne', sans-serif;
+            color: black;
+            font-size: 16px;
+        }
+
+        .primary-button {
+            width: fit-content;
+            padding: 0.5rem 4rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 26px;
+            background-color: var(--primary-color);
+            color: #FFF;
+            text-decoration: none;
+            transition: ease all 0.4s;
+        }
+
+        .primary-button:hover {
+            background-color: #ce2846;
+            color: #fff;
+            box-shadow: 4px 4px 6px 2px rgba(0, 0, 0, 0.1);
+        }
+
+        .secondary-button {
+            width: fit-content;
+            padding: 0.5rem 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 26px;
+            background-color: black;
+            color: #FFF;
+            text-decoration: none;
+            transition: ease all 0.4s;
+        }
+
+        .secondary-button:hover {
+            background-color: rgb(46, 46, 46);
+            color: #fff;
+            box-shadow: 4px 4px 6px 2px rgba(0, 0, 0, 0.1);
+        }
+
+
+        /* First section */
+        section#first-section {
+            position: relative;
+            padding: 3rem 0;
+            background: var(--dark-blue) url('../img/bg-tankspage.png') no-repeat;
+            background-size: cover;
+            height: 100vh;
+        }
+
+        section#first-section img.img-bg-esq {
+            position: absolute;
+            z-index: -1;
+            bottom: 4rem;
+        }
+
+        section#first-section img.img-bg-dir {
+            position: absolute;
+            top: -2.5rem;
+            right: 0;
+            z-index: -1;
+        }
+
+        section#first-section img.logo {
+            margin-bottom: 8rem;
+        }
+
+        section#first-section h1 {
+            font-size: 2.7rem;
+            color: white;
+            line-height: 3rem;
+            margin-bottom: 2rem;
+
+            font-weight: 600;
+        }
+
+        section#first-section h1 span {
+            color: var(--primary-color);
+        }
+
+        section#first-section p {
+            font-size: 1.3rem;
+            line-height: 1.5rem;
+            color: white;
+            margin-bottom: 4rem;
+        }
+
+        section#first-section #form p {
+            margin: 0
+        }
+
+        section#first-section .socials p {
+            margin: 4rem 0 0.5rem;
+            font-size: 1rem;
+            display: block;
+        }
+
+        section#first-section .socials a {
+            margin-right: 2rem;
+            transition: all ease-in 0.3s;
+        }
+
+        section#first-section .socials a:hover {
+            filter: brightness(0.7);
+        }
+
+        section#first-section .socials a.instagram {
+            background: rgb(79, 85, 163);
+            background: linear-gradient(265deg, rgba(79, 85, 163, 1) 0%, rgba(221, 28, 128, 1) 35%, rgba(238, 43, 59, 1) 65%, rgba(253, 217, 115, 1) 100%);
+            color: white;
+            padding: 0.5rem 3rem;
+            border-radius: 30px;
+            text-decoration: none;
+        }
+
+        section#first-section .socials a.instagram img {
+            margin-right: 1rem;
+            width: 20px;
+        }
+
+        section#first-section .socials a.linkedin {
+            background-color: #2464AD;
+            color: white;
+            padding: 0.5rem 3rem;
+            border-radius: 30px;
+            text-decoration: none;
+        }
+
+        section#first-section .socials a.linkedin img {
+            margin-right: 1rem;
+            width: 20px;
+        }
+
+
+        /* ----------------- */
+        /* Responsive styles */
+        /* ----------------- */
+        @media screen and (max-width: 1500px) {
+
+            /* Global */
+
+
+            /* First section */
+            section#first-section h1 {
+                font-size: 1.9rem !important;
+                line-height: 2.5rem !important;
+            }
+
+            section#first-section h2 {
+                font-size: 1.5rem !important;
+            }
+
+            section#first-section p {
+                font-size: 1.1rem !important;
+            }
+
+
+            section#first-section #form .bricks--component-text h3 span,
+            section#first-section #form .bricks--component-text h3 strong {
+                font-size: 0.9rem !important;
+            }
+        }
+
+        /* iPhone 6/7/8 Plus - G4  */
+        @media screen and (max-width: 540px) {
+
+
+            /* Global */
+            body p {
+                font-size: 1rem;
+            }
+
+            body h1 {
+                font-size: 1.8rem !important;
+            }
+
+            body h2 {
+                font-size: 1.5rem !important;
+            }
+
+            body p {
+                font-size: 1.3rem !important;
+            }
+
+            h1 br,
+            h2 br,
+            p br {
+                display: none;
+            }
+
+            /* First section */
+            section#first-section img.img-bg-esq {
+                display: none;
+            }
+
+            section#first-section img.img-bg-dir {
+                opacity: 0.1;
+            }
+
+            section#first-section img.img-first-section {
+                margin-bottom: 3rem;
+            }
+
+            section#first-section #form section {
+                padding: 1rem !important;
+            }
+
+            section#third-section p {
+                margin-top: 3rem;
+                width: 100%;
+            }
+
+            section#third-section a {
+                display: block;
+                margin: 0 auto 3rem;
+            }
+
+            section#first-section img.logo{
+                margin-bottom: 3rem;
+            }
+
+            section#first-section .socials a {
+                display: block;
+                margin: 1rem 0;
+                text-align: center;
+            }
+
+        }
+
+        @media screen and (max-width: 768px) {
+
+            /* First section */
+            section#first-section img.img-first-section {
+                margin-bottom: 3rem;
+            }
+
+        }
+    </style>
+</head>
+
+<body>
+    <section id="first-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img class="logo" src="../img/logo.svg" alt="Bowe">
+                    <h1 class="title">
+                        Esperamos que este conteúdo <br>
+                        seja útil para o seu negócio <br>
+                        geração de demanda B2B: <br>
+                        muito além de aquisição.
+                    </h1>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="socials">
+                        <p>
+                            Acompanhe nossas redes sociais para mais conteúdos.
+                        </p>
+                        <a class="linkedin" href="https://www.linkedin.com/company/bowe-td/" target="_blank">
+                            <img src="../img/icon-linkedin.svg" alt="Bowe">
+                            Linkedin
+                        </a>
+                        <a class="instagram" href="https://www.instagram.com/bowe.td/" target="_blank">
+                            <img src="../img/icon-instagram.svg" alt="Bowe">
+                            Instagram
+                        </a>
+                    </div>
+                </div>
+            </div>
+    </section>
+    <script>
+        function downloadFile(filePath){
+            var link=document.createElement('a');
+            link.href = filePath;
+            link.target = "_blank";
+            link.download = filePath.substr(filePath.lastIndexOf('/') + 1);
+            link.click();
+        }
+        downloadFile('https://bowe-ebooks.s3.amazonaws.com/Ebook_Geracao-de-Demanda+.pdf');
+    </script>
+</body>
+
+</html>

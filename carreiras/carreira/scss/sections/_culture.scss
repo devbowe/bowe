@@ -1,0 +1,129 @@
+.culture {
+  padding-top: 4rem;
+
+  &__container {
+    width: min(100%, 85em);
+    display: flex;
+    position: relative;
+    overflow-x: scroll;
+  }
+
+  .card {
+    display: grid;
+    position: relative;
+    align-items: start;
+    justify-items: center;
+    text-align: center;
+    flex-shrink: 0;
+    flex-basis: 10rem;
+    cursor: pointer;
+
+    p {
+      position: absolute;
+      z-index: 2;
+      color: var(--clr-neutral-white);
+      font-weight: 700;
+      text-align: center;
+      padding-top: 4rem;
+      font-size: 1.25rem;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-color: var(--clr-accent-blue);
+      width: 0;
+      transition: width 200ms linear;
+      opacity: 0.6;
+    }
+
+    &:hover::after,
+    &:focus::after {
+      width: 100%;
+    }
+  }
+
+  .float {
+    color: var(--clr-accent-blue);
+    text-align: center;
+    z-index: 9;
+    margin-bottom: 2rem;
+
+    h2 {
+      font-size: clamp(2rem, 3.5vw, 2.5rem);
+    }
+
+    a {
+      max-width: max-content;
+      margin: 1rem auto;
+    }
+  }
+
+  .scroll {
+    padding-left: 5%;
+    font-size: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    span {
+      font-size: 2rem;
+      display: block;
+      line-height: 1;
+      color: var(--clr-accent-red);
+      font-weight: 800;
+      bottom: 3px;
+      position: relative;
+
+      animation: bounce-right infinite 2000ms;
+    }
+
+    @keyframes bounce-right {
+      0% {
+        transform: translateX(0);
+      }
+
+      50% {
+        transform: translateX(30px);
+      }
+
+      100% {
+        transform: translateX(0);
+      }
+    }
+  }
+
+  @media (min-width: 45em) {
+    &__container {
+      overflow-x: unset;
+    }
+
+    .card {
+      flex-shrink: 1;
+      flex-basis: unset;
+    }
+
+    .scroll {
+      display: none;
+    }
+  }
+
+  @media screen and (min-width: 65em) {
+    position: relative;
+    display: grid;
+    justify-items: center;
+
+    .float {
+      position: absolute;
+      color: var(--clr-neutral-white);
+      bottom: 1rem;
+    }
+  }
+}

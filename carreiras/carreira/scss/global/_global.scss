@@ -1,0 +1,132 @@
+:root {
+    --spacing: 4rem;
+
+    --clr-accent-red: #f41f45;
+    --clr-accent-blue: #222137;
+    --clr-neutral-white: #fff;
+    --clr-accent-gray-light: #aaaaaa;
+
+    @media (min-width: 45em) {
+        --spacing: 5rem;
+    }
+
+    @media (min-width: 70em) {
+        --spacing: 5.5rem;
+    }
+}
+
+* {
+    font-family: "Syne", sans-serif;
+}
+
+html {
+    font-size: 93.75%;
+
+    @media (min-width: 45em) {
+        font-size: 100%;
+    }
+}
+
+body {
+    color: var(--black);
+}
+
+.container {
+    width: min(90%, 85rem);
+    margin-inline: auto;
+}
+
+.spacing {
+    padding-block: var(--spacing);
+}
+
+.btn {
+    font-size: 1rem;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    border-radius: 100vmax;
+    padding: 0.5em 3em;
+    color: var(--clr-neutral-white);
+    background-color: var(--clr-accent-red);
+    display: grid;
+    position: relative;
+    max-width: max-content;
+    overflow: hidden;
+
+    span {
+        z-index: 2;
+    }
+
+    &::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background-color: var(--clr-accent-blue);
+        width: 0;
+        border-radius: 100vmax;
+        transition: width 200ms linear;
+    }
+
+    &:hover::after,
+    &:focus::after {
+        width: 100%;
+    }
+
+    &.dark {
+        background-color: var(--clr-accent-blue);
+
+        &::after {
+            background-color: var(--clr-neutral-white);
+        }
+
+        &:hover::after,
+        &:focus::after {
+            width: 100%;
+        }
+
+        &:hover,
+        &:focus {
+            transition: color 100ms ease-in-out;
+            color: var(--clr-accent-blue);
+        }
+    }
+
+    &.blue-red {
+        background-color: var(--clr-accent-blue);
+
+        &::after {
+            background-color: var(--clr-accent-red);
+        }
+
+        &:hover::after,
+        &:focus::after {
+            width: 100%;
+        }
+
+        &:hover,
+        &:focus {
+            transition: color 100ms ease-in-out;
+            color: var(--clr-neutral-white);
+        }
+    }
+
+    &.light {
+        background-color: var(--clr-accent-red);
+
+        &::after {
+            background-color: var(--clr-neutral-white);
+        }
+
+        &:hover::after,
+        &:focus::after {
+            width: 100%;
+        }
+
+        &:hover,
+        &:focus {
+            transition: color 100ms ease-in-out;
+            color: var(--clr-accent-blue);
+        }
+    }
+}

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="501.128" height="337.75" viewBox="0 0 501.128 337.75">
+  <defs>
+    <filter id="Elipse_94" x="58.965" y="67.492" width="23.637" height="23.638" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.379" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_95" x="58.965" y="120.108" width="23.637" height="23.638" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.379" result="blur-2"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_96" x="58.965" y="172.724" width="23.637" height="23.638" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.379" result="blur-3"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_97" x="58.965" y="225.339" width="23.637" height="23.638" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.379" result="blur-4"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_98" x="58.965" y="277.954" width="23.637" height="23.638" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.379" result="blur-5"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_83" data-name="Grupo 83" transform="translate(-11827.466 -14285.349)">
+    <g id="Grupo_398" data-name="Grupo 398">
+      <rect id="Retângulo_341" data-name="Retângulo 341" width="501.128" height="330.053" rx="35.44" transform="translate(11827.466 14285.349)" fill="#4a45d8"/>
+      <rect id="Retângulo_342" data-name="Retângulo 342" width="501.128" height="330.053" rx="35.44" transform="translate(11827.466 14293.046)" fill="#fff"/>
+    </g>
+    <text id="_5_pontos" data-name="5 pontos" transform="translate(12172.602 14359.866)" fill="#282828" font-size="20" font-family="Syne-Bold, Syne" font-weight="700"><tspan x="0" y="0">5 pontos</tspan></text>
+    <text id="_10_pontos" data-name="10 pontos" transform="translate(12172.602 14412.48)" fill="#282828" font-size="20" font-family="Syne-Bold, Syne" font-weight="700"><tspan x="0" y="0">10 pontos</tspan></text>
+    <text id="_20_pontos" data-name="20 pontos" transform="translate(12172.602 14465.097)" fill="#282828" font-size="20" font-family="Syne-Bold, Syne" font-weight="700"><tspan x="0" y="0">20 pontos</tspan></text>
+    <text id="_20_pontos-2" data-name="20 pontos" transform="translate(12172.602 14517.712)" fill="#282828" font-size="20" font-family="Syne-Bold, Syne" font-weight="700"><tspan x="0" y="0">20 pontos</tspan></text>
+    <text id="_30_pontos" data-name="30 pontos" transform="translate(12172.602 14570.326)" fill="#282828" font-size="20" font-family="Syne-Bold, Syne" font-weight="700"><tspan x="0" y="0">30 pontos</tspan></text>
+    <text id="Abriu_e-mail" data-name="Abriu e-mail" transform="translate(11932.487 14359.866)" fill="#282828" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Abriu e-mail</tspan></text>
+    <text id="Visitou_o_blog" data-name="Visitou o blog" transform="translate(11932.487 14412.48)" fill="#282828" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Visitou o blog</tspan></text>
+    <text id="Visitou_a_página_de_venda" data-name="Visitou a página
+de venda" transform="translate(11932.487 14453.097)" fill="#282828" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Visitou a página</tspan><tspan x="0" y="24">de venda</tspan></text>
+    <text id="Baixou_o_e-book" data-name="Baixou o e-book" transform="translate(11932.487 14517.712)" fill="#282828" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Baixou o e-book</tspan></text>
+    <text id="Participou_do_evento" data-name="Participou do evento" transform="translate(11932.487 14570.326)" fill="#282828" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Participou do evento</tspan></text>
+    <g id="Grupo_399" data-name="Grupo 399">
+      <rect id="Retângulo_343" data-name="Retângulo 343" width="33.919" height="33.919" transform="translate(11869.315 14335.969)" fill="#282828"/>
+      <g transform="matrix(1, 0, 0, 1, 11827.47, 14285.35)" filter="url(#Elipse_94)">
+        <circle id="Elipse_94-2" data-name="Elipse 94" cx="7.682" cy="7.682" r="7.682" transform="translate(63.1 71.63)" fill="#fff"/>
+      </g>
+      <path id="Caminho_819" data-name="Caminho 819" d="M11894.854,14364.61l2.3,2.3,4.5-4.5" fill="none" stroke="#3bdb00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Grupo_400" data-name="Grupo 400">
+      <rect id="Retângulo_344" data-name="Retângulo 344" width="33.919" height="33.919" transform="translate(11869.315 14388.584)" fill="#282828"/>
+      <g transform="matrix(1, 0, 0, 1, 11827.47, 14285.35)" filter="url(#Elipse_95)">
+        <circle id="Elipse_95-2" data-name="Elipse 95" cx="7.682" cy="7.682" r="7.682" transform="translate(63.1 124.25)" fill="#fff"/>
+      </g>
+      <path id="Caminho_820" data-name="Caminho 820" d="M11894.854,14417.226l2.3,2.3,4.5-4.5" fill="none" stroke="#3bdb00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Grupo_401" data-name="Grupo 401">
+      <rect id="Retângulo_345" data-name="Retângulo 345" width="33.919" height="33.919" transform="translate(11869.315 14441.199)" fill="#282828"/>
+      <g transform="matrix(1, 0, 0, 1, 11827.47, 14285.35)" filter="url(#Elipse_96)">
+        <circle id="Elipse_96-2" data-name="Elipse 96" cx="7.682" cy="7.682" r="7.682" transform="translate(63.1 176.86)" fill="#fff"/>
+      </g>
+      <path id="Caminho_821" data-name="Caminho 821" d="M11894.854,14469.841l2.3,2.3,4.5-4.5" fill="none" stroke="#3bdb00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Grupo_402" data-name="Grupo 402">
+      <rect id="Retângulo_346" data-name="Retângulo 346" width="33.919" height="33.919" transform="translate(11869.315 14493.814)" fill="#282828"/>
+      <g transform="matrix(1, 0, 0, 1, 11827.47, 14285.35)" filter="url(#Elipse_97)">
+        <circle id="Elipse_97-2" data-name="Elipse 97" cx="7.682" cy="7.682" r="7.682" transform="translate(63.1 229.48)" fill="#fff"/>
+      </g>
+      <path id="Caminho_822" data-name="Caminho 822" d="M11894.854,14522.456l2.3,2.3,4.5-4.5" fill="none" stroke="#3bdb00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Grupo_403" data-name="Grupo 403">
+      <rect id="Retângulo_347" data-name="Retângulo 347" width="33.919" height="33.919" transform="translate(11869.315 14546.431)" fill="#282828"/>
+      <g transform="matrix(1, 0, 0, 1, 11827.47, 14285.35)" filter="url(#Elipse_98)">
+        <circle id="Elipse_98-2" data-name="Elipse 98" cx="7.682" cy="7.682" r="7.682" transform="translate(63.1 282.09)" fill="#fff"/>
+      </g>
+      <path id="Caminho_823" data-name="Caminho 823" d="M11894.854,14575.071l2.3,2.3,4.5-4.5" fill="none" stroke="#3bdb00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <line id="Linha_33" data-name="Linha 33" y2="225.501" transform="translate(12142.948 14349.621)" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="0 10"/>
+  </g>
+</svg>

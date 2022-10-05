@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="472.565" height="251.677" viewBox="0 0 472.565 251.677">
+  <defs>
+    <filter id="Retângulo_445" x="65.419" y="0" width="173.034" height="57.782" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.993" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_446" x="229.346" y="0" width="173.034" height="57.782" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.993" result="blur-2"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_447" x="65.419" y="95.736" width="173.034" height="57.782" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.993" result="blur-3"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_448" x="65.419" y="191.225" width="173.034" height="57.782" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.993" result="blur-4"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_449" x="229.346" y="95.736" width="173.034" height="57.782" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.993" result="blur-5"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_486" data-name="Grupo 486" transform="translate(-420.278 -3275.582)">
+    <text id="Ações_de_marketing_atraem_prospects_" data-name="Ações de marketing
+atraem prospects;" transform="translate(506.677 3337.572)" fill="#e0e0e0" font-size="15" font-family="Syne-Regular, Syne"><tspan x="0" y="0">Ações de marketing</tspan><tspan x="0" y="18">atraem prospects;</tspan></text>
+    <text id="Prospects_fornecem_informações_e_viram_leads_" data-name="Prospects fornecem
+informações e viram
+leads;" transform="translate(670.603 3337.572)" fill="#e0e0e0" font-size="15" font-family="Syne-Regular, Syne"><tspan x="0" y="0">Prospects fornecem</tspan><tspan x="0" y="18">informações e viram</tspan><tspan x="0" y="36">leads;</tspan></text>
+    <text id="Time_de_vendas_contata_leads_buscando_necessidades_para_a_marca_resolver_vender_" data-name="Time de vendas contata
+leads buscando necessidades
+para a marca resolver (vender);" transform="translate(670.603 3433.506)" fill="#e0e0e0" font-size="15" font-family="Syne-Regular, Syne"><tspan x="0" y="0">Time de vendas contata</tspan><tspan x="0" y="18">leads buscando necessidades</tspan><tspan x="0" y="36">para a marca resolver (vender);</tspan></text>
+    <text id="Caso_haja_viram_oportunidades_" data-name="Caso haja, viram
+oportunidades; " transform="translate(506.677 3433.506)" fill="#e0e0e0" font-size="15" font-family="Syne-Regular, Syne"><tspan x="0" y="0">Caso haja, viram</tspan><tspan x="0" y="18">oportunidades; </tspan></text>
+    <text id="Surgem_clientes_reais." data-name="Surgem clientes reais." transform="translate(506.677 3523.259)" fill="#e0e0e0" font-size="15" font-family="Syne-Regular, Syne"><tspan x="0" y="0">Surgem clientes reais.</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 420.28, 3275.58)" filter="url(#Retângulo_445)">
+      <rect id="Retângulo_445-2" data-name="Retângulo 445" width="131.077" height="15.824" rx="7.912" transform="translate(86.4 20.98)" fill="#f41f45"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 420.28, 3275.58)" filter="url(#Retângulo_446)">
+      <rect id="Retângulo_446-2" data-name="Retângulo 446" width="131.077" height="15.824" rx="7.912" transform="translate(250.32 20.98)" fill="#4a45d8"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 420.28, 3275.58)" filter="url(#Retângulo_447)">
+      <rect id="Retângulo_447-2" data-name="Retângulo 447" width="131.077" height="15.824" rx="7.912" transform="translate(86.4 116.71)" fill="#4a45d8"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 420.28, 3275.58)" filter="url(#Retângulo_448)">
+      <rect id="Retângulo_448-2" data-name="Retângulo 448" width="131.077" height="15.824" rx="7.912" transform="translate(86.4 212.2)" fill="#f41f45"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 420.28, 3275.58)" filter="url(#Retângulo_449)">
+      <rect id="Retângulo_449-2" data-name="Retângulo 449" width="131.077" height="15.824" rx="7.912" transform="translate(250.32 116.71)" fill="#f41f45"/>
+    </g>
+    <path id="Caminho_1093" data-name="Caminho 1093" d="M841.475,3304.149a47.868,47.868,0,1,1,0,95.736" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+    <path id="Caminho_1094" data-name="Caminho 1094" d="M471.646,3495.946a47.869,47.869,0,0,1,0-95.737" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+    <path id="Caminho_1095" data-name="Caminho 1095" d="M657.613,3303.585l-4.645-2.682a1.025,1.025,0,0,0-1.538.888v5.364a1.025,1.025,0,0,0,1.538.888l4.645-2.682A1.025,1.025,0,0,0,657.613,3303.585Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Caminho_1096" data-name="Caminho 1096" d="M651.942,3401.1l4.646,2.682a1.025,1.025,0,0,0,1.538-.888v-5.364a1.026,1.026,0,0,0-1.538-.888l-4.646,2.682A1.026,1.026,0,0,0,651.942,3401.1Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Caminho_1097" data-name="Caminho 1097" d="M821.377,3303.585l-4.645-2.682a1.025,1.025,0,0,0-1.538.888v5.364a1.025,1.025,0,0,0,1.538.888l4.645-2.682A1.025,1.025,0,0,0,821.377,3303.585Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Caminho_1098" data-name="Caminho 1098" d="M815.707,3401.1l4.645,2.682a1.025,1.025,0,0,0,1.538-.888v-5.364a1.026,1.026,0,0,0-1.538-.888l-4.645,2.682A1.025,1.025,0,0,0,815.707,3401.1Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Caminho_1099" data-name="Caminho 1099" d="M493.715,3303.585l-4.645-2.682a1.025,1.025,0,0,0-1.538.888v5.364a1.025,1.025,0,0,0,1.538.888l4.645-2.682A1.025,1.025,0,0,0,493.715,3303.585Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Caminho_1100" data-name="Caminho 1100" d="M488.044,3401.1l4.646,2.682a1.025,1.025,0,0,0,1.538-.888v-5.364a1.026,1.026,0,0,0-1.538-.888l-4.646,2.682A1.026,1.026,0,0,0,488.044,3401.1Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Caminho_1101" data-name="Caminho 1101" d="M493.715,3494.81l-4.645-2.682a1.026,1.026,0,0,0-1.538.888v5.364a1.025,1.025,0,0,0,1.538.888l4.645-2.682A1.025,1.025,0,0,0,493.715,3494.81Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

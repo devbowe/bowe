@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67">
+  <g id="Grupo_33701" data-name="Grupo 33701" transform="translate(-122 -941)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="33.5" cy="33.5" r="33.5" transform="translate(122 941)" fill="#fff"/>
+    <path id="Elipse_1_-_Contorno" data-name="Elipse 1 - Contorno" d="M33.5,8A25.5,25.5,0,1,0,59,33.5,25.529,25.529,0,0,0,33.5,8m0-8A33.5,33.5,0,1,1,0,33.5,33.5,33.5,0,0,1,33.5,0Z" transform="translate(122 941)" fill="#222137"/>
+    <circle id="Elipse_2" data-name="Elipse 2" cx="23.5" cy="23.5" r="23.5" transform="translate(132 951)" fill="#222137"/>
+    <path id="Elipse_2_-_Contorno" data-name="Elipse 2 - Contorno" d="M23.5,1.5a22.006,22.006,0,0,0-8.563,42.272A22.006,22.006,0,0,0,32.063,3.228,21.861,21.861,0,0,0,23.5,1.5m0-1.5A23.5,23.5,0,1,1,0,23.5,23.5,23.5,0,0,1,23.5,0Z" transform="translate(132 951)" fill="#222137"/>
+    <ellipse id="Elipse_4" data-name="Elipse 4" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(140 958)" fill="#fff"/>
+    <path id="Elipse_4_-_Contorno" data-name="Elipse 4 - Contorno" d="M16,1.5A14.167,14.167,0,0,0,5.763,5.877a15.367,15.367,0,0,0,0,21.246,14.159,14.159,0,0,0,20.474,0,15.367,15.367,0,0,0,0-21.246A14.167,14.167,0,0,0,16,1.5M16,0A16.256,16.256,0,0,1,32,16.5,16.256,16.256,0,0,1,16,33,16.256,16.256,0,0,1,0,16.5,16.256,16.256,0,0,1,16,0Z" transform="translate(140 958)" fill="#222137"/>
+    <circle id="Elipse_3" data-name="Elipse 3" cx="9.5" cy="9.5" r="9.5" transform="translate(146 965)" fill="#fff"/>
+    <path id="Elipse_3_-_Contorno" data-name="Elipse 3 - Contorno" d="M9.5,1.5a8,8,0,1,0,8,8,8.009,8.009,0,0,0-8-8M9.5,0A9.5,9.5,0,1,1,0,9.5,9.5,9.5,0,0,1,9.5,0Z" transform="translate(146 965)" fill="#222137"/>
+    <path id="Caminho_22" data-name="Caminho 22" d="M23.313.3c13.127,0-8.246,1.576-8.72,23.473-.46,21.259,22.386,23.265,9.259,23.265S0,36.9,0,23.769A23.132,23.132,0,0,1,23.313.3Z" transform="translate(131.731 950.731)" fill="#fff"/>
+    <path id="Caminho_22_-_Contorno" data-name="Caminho 22 - Contorno" d="M23.313,1.8A21.636,21.636,0,0,0,7.8,8.165a21.983,21.983,0,0,0-6.3,15.6A21.33,21.33,0,0,0,8.046,39.245a22.143,22.143,0,0,0,7.105,4.609,23.055,23.055,0,0,0,8.7,1.679h.492c-4.11-2.99-11.522-9.255-11.251-21.8A26.979,26.979,0,0,1,24.175,1.8c-.354,0-.663,0-.863,0m0-1.5c13.127,0-8.246,1.576-8.72,23.473-.46,21.259,22.386,23.265,9.259,23.265S0,36.9,0,23.769A23.132,23.132,0,0,1,23.313.3Z" transform="translate(131.731 950.731)" fill="#222137"/>
+    <path id="Polígono_1" data-name="Polígono 1" d="M3.5,0,7,4H0Z" transform="translate(152 954)" fill="#fff"/>
+    <path id="Polígono_2" data-name="Polígono 2" d="M4,0,8,5H0Z" transform="matrix(0.848, 0.53, -0.53, 0.848, 164.129, 954)" fill="#fff"/>
+    <path id="Polígono_3" data-name="Polígono 3" d="M4,0,8,5H0Z" transform="matrix(0.391, 0.921, -0.921, 0.391, 173.935, 962.341)" fill="#fff"/>
+    <path id="Polígono_4" data-name="Polígono 4" d="M4,0,8,5H0Z" transform="matrix(-0.208, 0.978, -0.978, -0.208, 177.634, 974.607)" fill="#fff"/>
+    <path id="Polígono_5" data-name="Polígono 5" d="M4,0,8,5H0Z" transform="translate(173.889 986.644) rotate(133)" fill="#fff"/>
+    <path id="Polígono_6" data-name="Polígono 6" d="M4.5,0,9,5H0Z" transform="translate(164.06 995.186) rotate(169)" fill="#fff"/>
+  </g>
+</svg>

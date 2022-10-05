@@ -1,0 +1,45 @@
+.hero {
+    padding-block: calc(var(--spacing) / 2) var(--spacing);
+
+    background-color: #000;
+    color: var(--clr-neutral-white);
+
+    position: relative;
+    display: grid;
+
+    @media (min-width: 70em) {
+        min-height: 75vh;
+    }
+
+    .content {
+        z-index: 99;
+        position: relative;
+
+        > img {
+            padding-bottom: var(--spacing);
+        }
+
+        h1 {
+            font-size: clamp(1.75rem, 3.5vw, 2.75rem);
+            line-height: 1.2;
+            max-width: 20ch;
+        }
+
+        p {
+            margin-block: 2rem 1.5rem;
+            max-width: 40ch;
+            font-size: 1.125rem;
+        }
+    }
+
+    .bg {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+
+        object-fit: cover;
+        object-position: 50% 10%;
+    }
+}

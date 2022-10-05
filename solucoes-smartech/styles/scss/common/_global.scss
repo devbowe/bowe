@@ -1,0 +1,144 @@
+$colors: (
+    "clr-neutral-100": #ffffff,
+    "clr-neutral-200": #f2f2f2,
+    "clr-neutral-300": #e5e5e5,
+    "clr-neutral-400": #c1c1c1,
+    "clr-neutral-700": #222137,
+
+    "clr-accent-blue": "#4A45D8",
+    "clr-accent-blue-dark": "#222137",
+    "clr-accent-red": "#F41F45",
+);
+
+:root {
+    @each $name, $value in $colors {
+        --#{$name}: #{$value};
+    }
+}
+
+:root {
+    --ff-primary: "Syne", sans-serif;
+
+    --spacing: 4rem;
+
+    --clr-placeholder: #707070;
+    --clr-field: #212121;
+
+    @media screen and (min-width: 45em) {
+        --spacing: 5rem;
+    }
+
+    @media screen and (min-width: 70em) {
+        --spacing: 5.5rem;
+    }
+}
+
+html {
+    scroll-padding-top: 2rem;
+    font-size: 93.75%;
+
+    @media screen and (min-width: 45em) {
+        font-size: 100%;
+    }
+}
+
+body {
+    font-family: var(--ff-primary);
+    color: var(--clr-accent-blue-dark);
+}
+
+body,
+html {
+    overflow-x: hidden;
+}
+
+p {
+    max-width: var(--width, unset);
+}
+
+.center {
+    margin-inline: auto;
+    text-align: center;
+}
+
+.container {
+    width: min(90%, 85em);
+    margin-inline: auto;
+}
+
+.fw-bold {
+    font-weight: 700;
+}
+
+.spacing {
+    padding-block: var(--spacing);
+}
+
+.flow {
+    p + p {
+        margin-top: 1rem;
+    }
+}
+
+@each $name, $value in $colors {
+    .bg-#{$name} {
+        background-color: #{$value};
+    }
+}
+
+@each $name, $value in $colors {
+    .#{$name} {
+        color: #{$value};
+    }
+}
+
+$fontWeights: (400, 500, 600, 700);
+
+@each $weight in $fontWeights {
+    .fw-#{$weight} {
+        font-weight: #{$weight};
+    }
+}
+
+// Font sizes
+$font-sizes: (
+    1: ".75rem",
+    2: ".85rem",
+    3: "1rem",
+    4: "1.125rem",
+    5: "1.25rem",
+    6: "1.5rem",
+    7: "1.75rem",
+    8: "2rem",
+    9: "2.25rem",
+    10: "2.5rem",
+);
+
+@each $name, $size in $font-sizes {
+    .fs-#{$name} {
+        font-size: #{$size};
+    }
+}
+
+// ::selection {
+//    background-color: #ff8ca3;
+//    color: var(--clr-neutral-100);
+// }
+
+::-webkit-scrollbar {
+    width: 0.75em;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--clr-accent-blue);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--clr-neutral-100);
+    border: 2px solid var(--clr-accent-blue);
+    border-radius: 10px;
+}
+
+body {
+    padding-right: 0 !important;
+}

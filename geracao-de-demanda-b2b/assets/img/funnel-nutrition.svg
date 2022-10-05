@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="545.014" height="310.218" viewBox="0 0 545.014 310.218">
+  <g id="Grupo_591" data-name="Grupo 591" transform="translate(-12104.231 -8313.898)">
+    <g id="Grupo_586" data-name="Grupo 586">
+      <path id="Caminho_543" data-name="Caminho 543" d="M12585.085,7288.7q-7.68,32.149-14.424,64.735a13.369,13.369,0,0,1-13.083,10.68H12195.9a13.367,13.367,0,0,1-13.082-10.68q-6.741-32.585-14.425-64.735a13.347,13.347,0,0,1,12.983-16.451H12572.1A13.347,13.347,0,0,1,12585.085,7288.7Z" transform="translate(0 1260)" fill="#f41f45"/>
+      <path id="Caminho_544" data-name="Caminho 544" d="M12648.468,7071.708q-11.294,31.931-21.623,64.415a13.364,13.364,0,0,1-12.729,9.334h-474.753a13.366,13.366,0,0,1-12.73-9.334q-10.324-32.476-21.624-64.415a13.349,13.349,0,0,1,12.582-17.81h518.3A13.348,13.348,0,0,1,12648.468,7071.708Z" transform="translate(0 1260)" fill="#f41f45"/>
+      <path id="Caminho_545" data-name="Caminho 545" d="M12613.326,7180.277q-9.425,31.968-17.893,64.419a13.366,13.366,0,0,1-12.926,10.011h-411.539a13.367,13.367,0,0,1-12.926-10.011q-8.467-32.449-17.892-64.419a13.348,13.348,0,0,1,12.8-17.129h447.57A13.349,13.349,0,0,1,12613.326,7180.277Z" transform="translate(0 1260)" fill="#4a45d8"/>
+    </g>
+    <text id="TOFU" transform="translate(12377 8353)" fill="#fff" font-size="18.674" font-family="SegoeUI, Segoe UI"><tspan x="-22.471" y="0">TOFU</tspan></text>
+    <text id="MOFU" transform="translate(12377 8464)" fill="#fff" font-size="18.674" font-family="SegoeUI, Segoe UI"><tspan x="-26.397" y="0">MOFU</tspan></text>
+    <text id="BOFU" transform="translate(12377 8573)" fill="#fff" font-size="18.674" font-family="SegoeUI, Segoe UI"><tspan x="-23.365" y="0">BOFU</tspan></text>
+    <text id="Topo_de_funil" data-name="Topo de funil" transform="translate(12377 8377)" fill="#fff" font-size="15.705" font-family="Syne-Regular, Syne"><tspan x="-43.983" y="0">Topo de funil</tspan></text>
+    <text id="Meio_de_funil" data-name="Meio de funil" transform="translate(12377 8489)" fill="#fff" font-size="15.705" font-family="Syne-Regular, Syne"><tspan x="-44.36" y="0">Meio de funil</tspan></text>
+    <text id="Fundo_de_funil" data-name="Fundo de funil" transform="translate(12377 8597)" fill="#fff" font-size="15.705" font-family="Syne-Regular, Syne"><tspan x="-48.899" y="0">Fundo de funil</tspan></text>
+  </g>
+</svg>

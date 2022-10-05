@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="508.289" height="568.489" viewBox="0 0 508.289 568.489">
+  <g id="Grupo_592" data-name="Grupo 592" transform="translate(-14390 -9791.155)">
+    <path id="Caminho_738" data-name="Caminho 738" d="M14836.87,8732.951q-7.576,29.638-14.177,59.7a9.86,9.86,0,0,1-9.625,7.761h-338.625a9.857,9.857,0,0,1-9.624-7.761q-6.6-30.063-14.179-59.7a9.851,9.851,0,0,1,9.557-12.274h367.118A9.85,9.85,0,0,1,14836.87,8732.951Z" transform="translate(0 1260)" fill="#f41f45"/>
+    <path id="Caminho_739" data-name="Caminho 739" d="M14895.754,8544.491q-11.134,29.438-21.259,59.417a9.86,9.86,0,0,1-9.337,6.718h-442.8a9.86,9.86,0,0,1-9.338-6.718q-10.121-29.974-21.259-59.417a9.852,9.852,0,0,1,9.218-13.336h485.562A9.851,9.851,0,0,1,14895.754,8544.491Z" transform="translate(0 1260)" fill="#f41f45"/>
+    <path id="Caminho_740" data-name="Caminho 740" d="M14863.113,8638.791q-9.294,29.473-17.589,59.418a9.862,9.862,0,0,1-9.5,7.242h-384.539a9.86,9.86,0,0,1-9.5-7.242q-8.3-29.944-17.589-59.418a9.85,9.85,0,0,1,9.4-12.81h419.914A9.851,9.851,0,0,1,14863.113,8638.791Z" transform="translate(0 1260)" fill="#4a45d8"/>
+    <text id="Atração" transform="translate(14644 9836)" fill="#fff" font-size="19.168" font-family="SegoeUI, Segoe UI"><tspan x="-32.556" y="0">Atração</tspan></text>
+    <text id="Oportunidade" transform="translate(14644 9931)" fill="#fff" font-size="19.168" font-family="SegoeUI, Segoe UI"><tspan x="-59.398" y="0">Oportunidade</tspan></text>
+    <text id="Conversão" transform="translate(14644 10026)" fill="#fff" font-size="19.168" font-family="SegoeUI, Segoe UI"><tspan x="-44.466" y="0">Conversão</tspan></text>
+    <path id="Caminho_741" data-name="Caminho 741" d="M14450.641,8897.849q7.578-29.638,14.179-59.7a9.858,9.858,0,0,1,9.624-7.762h338.625a9.861,9.861,0,0,1,9.625,7.762q6.6,30.063,14.177,59.7a9.85,9.85,0,0,1-9.555,12.274H14460.2A9.851,9.851,0,0,1,14450.641,8897.849Z" transform="translate(0 1260)" fill="#4a45d8"/>
+    <path id="Caminho_742" data-name="Caminho 742" d="M14391.757,9086.309q11.134-29.436,21.259-59.417a9.86,9.86,0,0,1,9.338-6.717h442.8a9.86,9.86,0,0,1,9.337,6.717q10.122,29.974,21.259,59.417a9.851,9.851,0,0,1-9.218,13.336h-485.562A9.851,9.851,0,0,1,14391.757,9086.309Z" transform="translate(0 1260)" fill="#4a45d8"/>
+    <path id="Caminho_743" data-name="Caminho 743" d="M14424.4,8992.009q9.293-29.471,17.589-59.417a9.861,9.861,0,0,1,9.5-7.243h384.539a9.863,9.863,0,0,1,9.5,7.243q8.294,29.943,17.589,59.417a9.852,9.852,0,0,1-9.4,12.812H14433.8A9.851,9.851,0,0,1,14424.4,8992.009Z" transform="translate(0 1260)" fill="#f41f45"/>
+    <text id="Indicação" transform="translate(14644 10325)" fill="#fff" font-size="19.168" font-family="SegoeUI, Segoe UI"><tspan x="-40.16" y="0">Indicação</tspan></text>
+    <text id="Lealdade" transform="translate(14644 10231)" fill="#fff" font-size="19.168" font-family="SegoeUI, Segoe UI"><tspan x="-37.895" y="0">Lealdade</tspan></text>
+    <text id="Retenção" transform="translate(14644 10136)" fill="#fff" font-size="19.168" font-family="SegoeUI, Segoe UI"><tspan x="-39.065" y="0">Retenção</tspan></text>
+    <line id="Linha_39" data-name="Linha 39" x2="505.289" transform="translate(14391.5 10075.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="0 10"/>
+  </g>
+</svg>

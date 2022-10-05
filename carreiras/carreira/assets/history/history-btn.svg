@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(24 24) rotate(180)">
+    <g id="arrowhead-up">
+      <rect id="Retângulo_4053" data-name="Retângulo 4053" width="24" height="24" transform="translate(24 24) rotate(180)" fill="#f41f45" opacity="0"/>
+      <path id="Caminho_30887" data-name="Caminho 30887" d="M6.63,11.61,12,7.29l5.37,4.48a1,1,0,0,0,1.27-1.54l-6-5a1,1,0,0,0-1.27,0l-6,4.83a1,1,0,1,0,1.26,1.55Z" fill="#f41f45"/>
+      <path id="Caminho_30888" data-name="Caminho 30888" d="M12.64,12.23a1,1,0,0,0-1.27,0l-6,4.83a1,1,0,1,0,1.26,1.56L12,14.29l5.37,4.48a1,1,0,0,0,1.27-1.54Z" fill="#f41f45"/>
+    </g>
+  </g>
+</svg>

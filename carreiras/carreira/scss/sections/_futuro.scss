@@ -1,0 +1,124 @@
+.futuro {
+    background-color: var(--clr-accent-red);
+    color: var(--clr-neutral-white);
+    position: relative;
+
+    background-image: url("../assets/bowe-shape.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center right;
+
+    @media screen and (max-width: 45em) {
+        background-size: 50%;
+        background-position: bottom right;
+        background-position-x: 125%;
+    }
+
+    h2 {
+        max-width: 16ch;
+        font-size: clamp(1.75rem, 3.5vw, 2.25rem);
+        line-height: 1.2;
+        margin-bottom: 3rem;
+
+        strong {
+            background-color: var(--clr-accent-blue);
+            padding: 0.15em 0;
+            display: inline-block;
+        }
+    }
+
+    a {
+        margin-top: 2.5rem;
+    }
+
+    &__card {
+        --padding: 1.75rem;
+        --img-width: 5rem;
+
+        background-color: transparent;
+        position: relative;
+        cursor: grab;
+
+        .photo {
+            width: var(--img-width);
+            aspect-ratio: 1;
+            border-radius: 50%;
+            margin-bottom: calc(var(--img-width) / -2);
+            margin-left: var(--padding);
+            z-index: 5;
+            position: relative;
+            box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.178);
+        }
+
+        .quote {
+            position: absolute;
+            top: 4rem;
+            right: 2rem;
+        }
+
+        .content {
+            background-color: var(--clr-neutral-white);
+            color: var(--clr-accent-blue);
+            padding: var(--padding);
+            padding-top: calc(var(--padding) + calc(var(--img-width) / 2));
+
+            display: grid;
+            grid-template-rows: min-content min-content min-content;
+            height: 100%;
+            box-shadow: 3px 6px 20px #57636b56;
+
+            > * {
+                align-self: start;
+            }
+
+            .name {
+                font-weight: 700;
+                font-size: 1.25rem;
+            }
+
+            .job {
+                margin-bottom: 1rem;
+            }
+
+            .text {
+                color: #777777;
+            }
+        }
+    }
+
+    // Swiper
+    .swiper-wrapper {
+        margin-bottom: 7rem;
+        align-items: stretch !important;
+    }
+
+    .swiper-slide {
+        height: auto !important;
+    }
+
+    .swiper-pagination {
+        text-align: left !important;
+    }
+
+    .swiper-pagination-bullet-active {
+        background-color: var(--clr-neutral-white) !important;
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        --swiper-navigation-size: 25px;
+
+        background-color: var(--clr-neutral-white);
+        color: var(--clr-accent-blue) !important;
+        width: var(--swiper-navigation-size) !important;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        top: unset !important;
+        bottom: 5px;
+    }
+
+    .swiper-button-prev {
+        right: 3rem !important;
+        left: auto !important;
+    }
+}

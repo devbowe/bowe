@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1155.141" height="572.144" viewBox="0 0 1155.141 572.144">
+  <g id="Grupo_287" data-name="Grupo 287" transform="translate(-11499.736 -11253.752)">
+    <g id="Grupo_282" data-name="Grupo 282">
+      <g id="Grupo_280" data-name="Grupo 280">
+        <path id="Caminho_713" data-name="Caminho 713" d="M12005.814,11431.873v180.176a20,20,0,0,1-20,20h-35.254v-105.8a20,20,0,0,0-20-20h-234.9" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+        <path id="Caminho_714" data-name="Caminho 714" d="M11950.561,11632.049v117.67a20,20,0,0,1-20,20h-234.9" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+        <line id="Linha_25" data-name="Linha 25" x2="254.901" transform="translate(11695.66 11594.071)" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+        <line id="Linha_26" data-name="Linha 26" x2="254.901" transform="translate(11695.66 11681.896)" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+      </g>
+      <g id="Grupo_281" data-name="Grupo 281">
+        <path id="Caminho_715" data-name="Caminho 715" d="M12149.036,11431.873v180.176a20,20,0,0,0,20,20h35.253v-105.8a20,20,0,0,1,20-20h234.9" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+        <path id="Caminho_716" data-name="Caminho 716" d="M12204.289,11632.049v130.635a20,20,0,0,0,20,20h234.9" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+        <line id="Linha_27" data-name="Linha 27" x1="254.901" transform="translate(12204.289 11594.071)" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+        <line id="Linha_28" data-name="Linha 28" x1="254.901" transform="translate(12204.289 11681.896)" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+      </g>
+    </g>
+    <text id="Fluxo_segmentado_1" data-name="Fluxo segmentado 1" transform="translate(12654.877 11511.957)" fill="#fff" font-size="20" font-family="Syne-Regular, Syne"><tspan x="-174" y="0">Fluxo segmentado 1</tspan></text>
+    <text id="Fluxo_segmentado_2" data-name="Fluxo segmentado 2" transform="translate(12654.877 11599.781)" fill="#fff" font-size="20" font-family="Syne-Regular, Syne"><tspan x="-176.62" y="0">Fluxo segmentado 2</tspan></text>
+    <text id="Fluxo_segmentado_3" data-name="Fluxo segmentado 3" transform="translate(12654.877 11687.604)" fill="#fff" font-size="20" font-family="Syne-Regular, Syne"><tspan x="-176.66" y="0">Fluxo segmentado 3</tspan></text>
+    <text id="Fluxo_segmentado_4" data-name="Fluxo segmentado 4" transform="translate(12654.877 11788.484)" fill="#fff" font-size="20" font-family="Syne-Regular, Syne"><tspan x="-178.3" y="0">Fluxo segmentado 4</tspan></text>
+    <g id="Grupo_286" data-name="Grupo 286">
+      <g id="Grupo_284" data-name="Grupo 284">
+        <rect id="Retângulo_300" data-name="Retângulo 300" width="216.106" height="60.132" rx="30.066" transform="translate(12226.489 11564.005)" fill="#f41f45"/>
+        <rect id="Retângulo_301" data-name="Retângulo 301" width="216.106" height="60.132" rx="30.066" transform="translate(12226.489 11651.829)" fill="#f41f45"/>
+        <rect id="Retângulo_302" data-name="Retângulo 302" width="216.106" height="86.242" rx="21.352" transform="translate(12226.489 11739.653)" fill="#f41f45"/>
+        <g id="Grupo_283" data-name="Grupo 283">
+          <rect id="Retângulo_303" data-name="Retângulo 303" width="216.106" height="60.132" rx="30.066" transform="translate(12226.489 11476.181)" fill="#f41f45"/>
+          <text id="Financeiro" transform="translate(12334.543 11514.045)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="-61.889" y="0">Financeiro</tspan></text>
+        </g>
+        <text id="Saúde" transform="translate(12334.543 11601.869)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="-37.116" y="0">Saúde</tspan></text>
+        <text id="Segurança" transform="translate(12334.543 11689.692)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="-62.849" y="0">Segurança</tspan></text>
+        <text id="Automação_Industrial" data-name="Automação
+Industrial" transform="translate(12334.543 11774.184)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="-69.137" y="0">Automação</tspan><tspan x="-55.867" y="32.776">Industrial</tspan></text>
+      </g>
+      <g id="Grupo_285" data-name="Grupo 285">
+        <rect id="Retângulo_304" data-name="Retângulo 304" width="216.106" height="60.132" rx="30.066" transform="translate(11712.255 11476.181)" fill="#f41f45"/>
+        <rect id="Retângulo_305" data-name="Retângulo 305" width="216.106" height="60.132" rx="30.066" transform="translate(11712.255 11564.005)" fill="#f41f45"/>
+        <rect id="Retângulo_306" data-name="Retângulo 306" width="216.106" height="60.132" rx="30.066" transform="translate(11712.255 11651.829)" fill="#f41f45"/>
+        <rect id="Retângulo_307" data-name="Retângulo 307" width="216.106" height="60.132" rx="30.066" transform="translate(11712.255 11739.653)" fill="#f41f45"/>
+        <text id="B2B" transform="translate(11820.308 11514.045)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="-23.019" y="0">B2B</tspan></text>
+        <text id="B2B2C" transform="translate(11820.308 11601.869)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="-38.836" y="0">B2B2C</tspan></text>
+        <text id="B2C" transform="translate(11820.308 11689.693)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="-23.646" y="0">B2C</tspan></text>
+        <text id="Enterprise" transform="translate(11820.308 11777.517)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="-60.175" y="0">Enterprise</tspan></text>
+      </g>
+    </g>
+    <text id="Fluxo_segmentado_1-2" data-name="Fluxo segmentado 1" transform="translate(11587.637 11511.957)" fill="#fff" font-size="20" font-family="Syne-Regular, Syne"><tspan x="-87" y="0">Fluxo segmentado 1</tspan></text>
+    <text id="Fluxo_segmentado_2-2" data-name="Fluxo segmentado 2" transform="translate(11588.896 11599.78)" fill="#fff" font-size="20" font-family="Syne-Regular, Syne"><tspan x="-88.31" y="0">Fluxo segmentado 2</tspan></text>
+    <text id="Fluxo_segmentado_3-2" data-name="Fluxo segmentado 3" transform="translate(11588.916 11687.605)" fill="#fff" font-size="20" font-family="Syne-Regular, Syne"><tspan x="-88.33" y="0">Fluxo segmentado 3</tspan></text>
+    <text id="Fluxo_segmentado_4-2" data-name="Fluxo segmentado 4" transform="translate(11589.736 11775.43)" fill="#fff" font-size="20" font-family="Syne-Regular, Syne"><tspan x="-89.15" y="0">Fluxo segmentado 4</tspan></text>
+    <path id="Caminho_717" data-name="Caminho 717" d="M12077.211,11306.763v39.76h-119.288a20,20,0,0,0-20,20v26.581" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+    <path id="Caminho_718" data-name="Caminho 718" d="M12201.562,11387.566v-21.044a20,20,0,0,0-20-20h-104.351" fill="none" stroke="#f41f45" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="0 10"/>
+    <rect id="Retângulo_308" data-name="Retângulo 308" width="216.106" height="60.132" rx="30.066" transform="translate(11969.158 11253.752)" fill="#4a45d8"/>
+    <rect id="Retângulo_309" data-name="Retângulo 309" width="216.106" height="60.132" rx="30.066" transform="translate(12093.51 11377.28)" fill="#4a45d8"/>
+    <rect id="Retângulo_310" data-name="Retângulo 310" width="343.095" height="60.132" rx="30.066" transform="translate(11715.972 11377.28)" fill="#4a45d8"/>
+    <text id="Prospect" transform="translate(12009.484 11291.73)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Prospect</tspan></text>
+    <text id="Modelo_de_negócio" data-name="Modelo de negócio" transform="translate(11741 11416.414)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Modelo de negócio</tspan></text>
+    <text id="Segmento" transform="translate(12124.103 11416.414)" fill="#fff" font-size="27.313" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Segmento</tspan></text>
+  </g>
+</svg>
