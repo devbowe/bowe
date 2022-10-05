@@ -78,7 +78,7 @@ buttonSubmit.addEventListener("click", (e) => {
 
         setTimeout(() => {
             window.location.href =
-                "https://hml.bowe.com.br/seidor/transformacao-digital-seidor-up/obrigado.html";
+                "https://hml.bowe.com.br/bowe/solucoes-smartech/agradecimento.html";
         }, 1500);
 
         return true;

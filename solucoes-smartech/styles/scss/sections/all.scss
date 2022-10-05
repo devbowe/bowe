@@ -488,7 +488,13 @@
 }
 
 .work {
-    padding-bottom: var(--spacing);
+    // padding-bottom: var(--spacing);
+
+    // background-image: url("../../images/shape.svg");
+    background-repeat: no-repeat;
+    background-size: 25rem;
+    background-position-y: 25rem;
+    background-position-x: 100%;
 
     .workflow {
         display: grid;
